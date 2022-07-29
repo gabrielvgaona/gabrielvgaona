@@ -12,9 +12,6 @@ me to maintain and participate in communities of (mainly) spatial analysts and d
 --------------------------------------------------------------------------------
 
 - Experienced in spatial analysis, spatial statistics, data science.
-
-- Full experience with geographic information systems and spatial data.
-
 - Highly skilled in R, Python, Bash, LaTeX, GIS software
 
 <!---
