@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.researchgate.net/profile/Gabriel-Gaona" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://scholar.google.pl/citations?user=MRz8ICoAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 
-<a rel="me" href="https://fosstodon.org/@gavg712">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@gavg712"></a>
