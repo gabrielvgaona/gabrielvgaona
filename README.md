@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="mailto:gavg712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=gmail&logoColor=white" alt="github"></a>
 <a href="https://t.me/gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=telegram&logoColor=white" alt="github"></a>
-<a href="https://fosstodon.org/@gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=twitter&logoColor=white" alt="Mastodon"></a>
+<a href="https://fosstodon.org/@gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=mastodon&logoColor=white" alt="Mastodon"></a>
 <a href="https://ec.linkedin.com/in/gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://github.com/gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=github&logoColor=white" alt="github"></a>
 <a href="https://gitlab.com/gavg712" target="_blank"><img src="https://img.shields.io/badge/--3e3e3e?logo=gitlab&logoColor=white" alt="gitlab"></a>
